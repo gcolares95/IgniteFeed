@@ -2,7 +2,7 @@
   "name": "01-fundamentos-react-ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gcolares95.github.io/IgniteFeed",
+  "homepage": "https://gcolares95.github.io/IgniteFeed/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
