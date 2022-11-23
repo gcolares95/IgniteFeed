@@ -14,7 +14,7 @@ const posts: Post[] = [
   {
     id: 1,
     author: {
-      avatarUrl: "https:github.com/gcolares95.png",
+      avatarUrl: "http://github.com/gcolares95.png",
       name: "Guilherme Colares",
       role: "Web Developer"
     },
@@ -28,7 +28,7 @@ const posts: Post[] = [
   {
     id: 2,
     author: {
-      avatarUrl: "https:github.com/maykbrito.png",
+      avatarUrl: "https://github.com/maykbrito.png",
       name: "Mayk Brito",
       role: "Educator @Rocketseat"
     },

@@ -67,6 +67,8 @@ export function Post({ author, publishedAt, content }: PostProps) {
   
   const isNewCommentEmpty = newCommentText.length === 0;
 
+  console.log(author.avatarUrl);
+  
   return (
     <article className={styles.post}>
       <header>
