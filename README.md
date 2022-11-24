@@ -2,8 +2,6 @@
 
 <strong>Para acessar o projeto: <a href="https://ignite-feed-lac.vercel.app/">Ignite Feed</a></strong> 👻
 
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
